@@ -1,6 +1,9 @@
-
-//This program takes two numbers as strings and turns it into
-//linked lists, adds them and displays the result
+/*
+*
+*	This Java program adds two large integers represented as strings by converting them into doubly linked lists and then performing digit-by-digit 
+*	addition, similar to how you would manually add numbers on paper. The result is stored and printed as another linked list.
+*
+*/
 import java.util.Scanner;
 
 //Node Class
